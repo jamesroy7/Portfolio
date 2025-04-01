@@ -235,19 +235,19 @@
   
   /* Optional: Style for slide-specific background images */
   .slide-1 {
-    background-image: url('/images/una.webp');
+    background-image: url('images/una.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   .slide-2 {
-    background-image: url('/images/una.webp');
+    background-image: url('images/una.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   .slide-3 {
-    background-image: url('/images/una.webp');
+    background-image: url('images/una.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
